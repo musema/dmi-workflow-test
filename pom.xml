@@ -7,7 +7,8 @@
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>dmi-workflow-plugin test</name>
+	<name>dmi-workflow-plugin tester project</name>
+	<description>this project uses dmi-workflow-plugin to manage work flows</description>
 	<url>http://maven.apache.org</url>
 
 	<properties>
