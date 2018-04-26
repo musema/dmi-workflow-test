@@ -8,7 +8,7 @@
 	<packaging>jar</packaging>
 
 	<name>dmi-workflow-plugin tester project</name>
-	<description>this project uses dmi-workflow-plugin to manage work flows</description>
+	<description>this project uses dmi-workflow-plugin to manage work flows, changing again:</description>
 	<url>http://maven.apache.org</url>
 
 	<properties>
