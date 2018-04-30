@@ -10,6 +10,7 @@
 	<name>dmi-workflow-plugin tester project</name>
 	<description>this project uses dmi-workflow-plugin to manage work flows, changing again:
 	this change should be reflected in master and develop before deleting me!!! this is june release
+	Tare wants to update something
 	</description>
 	<url>http://maven.apache.org</url>
 
